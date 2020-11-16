@@ -1,0 +1,19 @@
+// Place all the styles related to the answers controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+h1 {
+  font-family: arial;
+}
+p {
+  font-family: arial;
+  font-size: 1.2em;
+}
+
+.question, .answer {
+  border-left: silver solid 6px;
+  padding-left: 0.5em;
+}
+
+a {
+  font-family: arial;
+}
